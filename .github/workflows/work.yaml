@@ -6,7 +6,7 @@ on:
     types: published
   # push:
   #   branches:
-  #     - master
+  #     - maste
   schedule:
     - cron: 0 20 * * *
   watch:
